@@ -22,7 +22,7 @@ function Post({ name, message, email, postImage, image, timestamp }) {
                         
                     </div>
                 </div>
-                <p className='pt-4'>{message}</p>
+                <p className='pt-4'>{message}</p> 
             </div>
 
             {postImage && (
